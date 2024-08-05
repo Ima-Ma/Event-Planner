@@ -1,0 +1,119 @@
+
+body{
+    background-image: linear-gradient(to bottom, rgba(171, 207, 102, 0.52), rgba(238, 69, 3, 0.73)), url("./done.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    
+}
+#haeding{
+    text-align: center;
+    font-size: 42px;
+}
+#para{
+    font-size: 25px;
+}
+.card{
+    display:inline-block ;
+}
+#pic{
+    height: 200px;
+}
+#logo{
+    width: 80px;
+}
+.navbar li a{
+    font-size: 18px;
+}
+.navbar li a:hover{
+    background-color: rgb(194, 89, 4);
+}
+.active2{
+    background-color: rgb(194, 89, 4);
+    font-weight: bold;
+}
+
+.card img{
+    height:200px ;
+}
+.card{
+    border: none;
+    margin-left: 20px;
+}
+.container-div-1{
+    margin-top: 500px;
+}
+#heading{
+    color: white;
+}
+#para{
+    color: white;
+}
+.container-2{
+    background-color: white;
+    margin-top: 100px;
+    height: 400px;
+ 
+}
+#form{
+    width: 50%;
+    margin-left: 20%;
+}
+.btn{
+    border: 2px solid rgb(194, 89, 4) ;
+    color: rgb(194, 89, 4);
+}
+.btn1{
+    background-color:rgb(194, 89, 4); 
+    color: white;
+    font-weight: bold;
+}
+.container-3 img{
+    height: 300px;
+    width: 400px;
+    margin-top: 100px;
+}
+.container-3{
+    color: white;
+
+}
+.container-4{
+    background-color: white;
+    color:black ;
+}
+.container-5{
+    margin-top: 200px;
+    color: white;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.322);
+}
+.container-5 img {
+    height: 400px;
+    margin-left: 100px;
+}
+#main{
+    color: white;
+    margin-top: 100px;
+    text-align: right;
+    font-size: 92px;
+    margin-right: 100px;
+    font-family: "Dancing Script", cursive;
+}
+#mainp{
+    color: white;
+    text-align: right;
+    margin-right: 100px;
+
+}
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: white;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgb(194, 89, 4);
+  }
+  
